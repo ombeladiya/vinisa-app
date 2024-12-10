@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910106166547",
+    "project_id": "hdjenterprise-f53f5",
+    "storage_bucket": "hdjenterprise-f53f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910106166547:android:9f602c2d203846c94146e6",
+        "android_client_info": {
+          "package_name": "com.ombeladiya.vinisa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDifyC3Asc0HzWDFA_xJlXL4ZqXuHQmJX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
